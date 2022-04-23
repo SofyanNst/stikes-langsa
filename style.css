@@ -1,0 +1,46 @@
+body{
+    background-color: #F7FFF1;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cover{
+    background: linear-gradient(180deg, #227501 14.69%, #74BE44 125%);
+    height: 70vh;
+    width: 100%;
+    margin-top: -14vh;
+    border-radius: 300px 0px 50px;
+}
+
+.cover-title{
+    margin-top: 150px;
+}
+
+.cover-image{
+    margin-top: 100px;
+}
+
+.subtitle-1{
+    margin-top: 90px;
+    color: #227501;
+}
+
+.footer{
+    background-color: #227501;
+    /* height: 250px; */
+}
+
+.yayasan{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.cover-header{
+    background: linear-gradient(180deg, #227501 14.69%, #74BE44 125%);
+    height: 40vh;
+    margin-top: -13vh;
+}
+
+.header-title{
+    margin-top: 120px;
+}
+
