@@ -46,6 +46,14 @@ body{
 
 @media (max-width: 576px) { 
     .bg-green{
-        background-color: #74BE44;
+        background-color: #227501;
+    }
+    .cover-title{
+        margin-top: 20vh;
+        text-align: center;
+    }
+
+    .title{
+        margin-top: 35vh;
     }
  }
